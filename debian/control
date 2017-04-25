@@ -1,0 +1,13 @@
+Source: ros-lunar-rqt-launch
+Section: misc
+Priority: extra
+Maintainer: Isaac Saito <130s@lateeye.net>
+Build-Depends: debhelper (>= 9.0.0), ros-lunar-catkin, ros-lunar-rqt-py-common
+Homepage: http://wiki.ros.org/rqt_launch
+Standards-Version: 3.9.2
+
+Package: ros-lunar-rqt-launch
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lunar-python-qt-binding (>= 0.2.19), ros-lunar-roslaunch, ros-lunar-rospy, ros-lunar-rqt-console, ros-lunar-rqt-gui, ros-lunar-rqt-gui-py, ros-lunar-rqt-py-common
+Description: This rqt plugin ROS package provides easy view of .launch files.
+ User can also start and end node by node that are defined in those files.

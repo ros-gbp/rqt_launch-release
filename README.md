@@ -1,3 +1,26 @@
+## rqt_launch (noetic) - 0.4.10-1
+
+The packages in the `rqt_launch` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic rqt_launch` on `Fri, 09 May 2025 16:51:00 -0000`
+
+The `rqt_launch` package was released.
+
+Version of package(s) in repository `rqt_launch`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_launch.git
+- release repository: https://github.com/ros-gbp/rqt_launch-release.git
+- rosdistro version: `0.4.9-1`
+- old version: `0.4.9-1`
+- new version: `0.4.10-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rqt_launch (noetic) - 0.4.9-1
 
 The packages in the `rqt_launch` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_launch` on `Tue, 13 Oct 2020 16:25:28 -0000`
